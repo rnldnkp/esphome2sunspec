@@ -2,7 +2,7 @@
 
 This project connects to the ESPHome API to make the values available to Victron Cerbo GX over ModbusTCP as a generic Sunspec PV inverter.
 
-This was originally created for a 1-phase Solis inverter based on this ESPHome code: https://github.com/hn/ginlong-solis/blob/master/solis-modbus-inv.yaml
+This was originally created for a 1-phase Solis inverter. Credits for this go to Menollo: https://github.com/Menollo/esphome2sunspec 
 
 Currently I'm in the works of adapting the code of this esphome2sunspec project to work with a 3-phase Goodwe setup.
 I will also reference the ESPhome code on github when done. Since I did not create that code and it not yet on github I'm refering to Tweaker for now: https://gathering.tweakers.net/forum/list_message/85891356#85891356
